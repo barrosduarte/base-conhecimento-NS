@@ -93,3 +93,60 @@ ________________________________________
 •	Indique 3 amigos: Ganhe 1 mês grátis.
 •	Presenteie alguém: Compre para um amigo e ganhe +10 dias de acesso.
 
+BASE DE CONHECIMENTO LÍVIA v1.0
+🔧 FUNCIONALIDADES PRINCIPAIS
+1.	Atendimento Automatizado no WhatsApp
+o	Respostas instantâneas para perguntas frequentes
+o	Triagem inteligente de mensagens (urgente/não urgente)
+o	Encaminhamento humano apenas quando necessário
+2.	Agendamento Inteligente
+o	Marcação de compromissos via chat (sem necessidade de integração externa)
+o	Lembretes automáticos para reduzir faltas
+o	Adaptável ao fluxo de trabalho do cliente
+3.	Vendas Automatizadas
+o	Apresentação de produtos/catálogo via texto
+o	Fechamento de pedidos simples (com confirmação humana opcional)
+o	Qualificação de leads 24/7
+4.	Integração Básica
+o	Conexão com seu estoque 
+o	Sync de dados simples para evitar erros em vendas
+5.	Processamento de Áudios
+o	Interpretação de mensagens de voz para respostas rápidas
+o	Identificação de intenção do cliente
+________________________________________
+🎯 DIFERENCIAIS ESTRATÉGICOS
+(Foque no que existe hoje, mas com linguagem de valor)
+1.	Economia de Custos
+o	"Custa 10x menos que um funcionário (sem FGTS, férias ou 13º)"  
+2.	Atendimento 24/7
+o	"Nenhuma mensagem perdida, mesmo de madrugada!" 
+3.	Redução de Faltas
+o	"Lembretes automáticos reduzem faltas em até 40%" 
+
+Benefício	Como Falar
+Custo-Benefício	"Solução 10x mais barata que um funcionário, com resultados imediatos"
+Tempo Real	"Atualização instantânea de status de produtos via integração simplificada"
+Personalização	"Configurada para falar exatamente como sua equipe, mantendo sua identidade"
+Escalabilidade	"Cresce com seu negócio sem custos adicionais"
+	
+________________________________________
+📊 CASES DE SUCESSO (MODELOS)
+1.	E-commerce de Pequeno Porte
+"Redução de 60% no tempo de atendimento após 2 semanas com LÍVIA, mesmo sem integração complexa."
+2.	Consultório Odontológico
+"Agendamentos automatizados via WhatsApp reduziram faltas em 35% com lembretes personalizados."
+3.	Revenda de Produtos
+"Vendas recorrentes aumentaram 20% com respostas instantâneas sobre estoque via planilha compartilhada."
+________________________________________
+💡 TÉCNICAS DE VENDA RECOMENDADAS
+1.	Foque no essencial:
+"Sua equipe merece focar no humano, não em tarefas repetitivas. A LÍVIA resolve o básico para você brilhar no complexo."
+2.	Use analogias:
+"Como um 'funcionário', ela cuida do operacional enquanto você estratégico."
+3.	Ofereça onboarding:
+"Nossa equipe configura tudo para você em 48h - sem precisar dominar ferramentas técnicas."
+🚀 FRASES DE VENDA PRONTAS (ADAPTADAS):
+•	"A LÍVIA é como um super estagiário digital: resolve o operacional para você focar no que só humanos fazem bem!"
+•	"Automatize 80% do seu atendimento em 48h – sem precisar de técnico!"
+•	"Clientes atendidos em segundos, vendas fechadas 24/7, estoque sempre atualizado. Tudo pelo WhatsApp!"
+
